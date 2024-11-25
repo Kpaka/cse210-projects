@@ -2,8 +2,17 @@ using System;
 
 class Program
 {
+    
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello Learning02 World!");
+        string job1 = "Microsoft";
+       job1._jobTitle = "Softwere Engineer";
     }
+
+    public class job1
+    {
+        string job1 = "Apple";
+
+    }
+    
 }
