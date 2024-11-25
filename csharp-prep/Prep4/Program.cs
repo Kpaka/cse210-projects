@@ -1,7 +1,11 @@
 using System;
+using System.Collections.Generic;
+using System.IO;
+using System.Linq;
 
 class Program
 {
+    static List<JournalEntry> <journal = new List<JournalEntry>();
     static void Main(string[] args)
     {
         {
